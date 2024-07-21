@@ -1,0 +1,53 @@
+Diabetes Overview
+-----------------
+Diabetes is a chronic condition that affects how your body turns food into energy. There are three main types of diabetes: Type 1, Type 2, and gestational diabetes.
+
+Types of Diabetes:
+1. Type 1 Diabetes:
+   - An autoimmune condition where the body attacks insulin-producing cells in the pancreas.
+   - Usually diagnosed in children and young adults.
+   - Requires insulin therapy for life.
+
+2. Type 2 Diabetes:
+   - The most common form of diabetes.
+   - The body becomes resistant to insulin or doesn't produce enough insulin.
+   - Often associated with obesity and a sedentary lifestyle.
+   - Can be managed with lifestyle changes, oral medications, and insulin if necessary.
+
+3. Gestational Diabetes:
+   - Develops during pregnancy and usually disappears after giving birth.
+   - Increases the risk of developing Type 2 diabetes later in life.
+
+Symptoms:
+- Increased thirst
+- Frequent urination
+- Extreme hunger
+- Unexplained weight loss
+- Fatigue
+- Blurred vision
+- Slow-healing sores
+- Frequent infections
+
+Diagnosis:
+Diabetes is diagnosed using the following blood tests:
+- Fasting Blood Glucose: Measures blood sugar after an overnight fast.
+- HbA1c Test: Provides an average blood sugar level over the past 2-3 months.
+- Oral Glucose Tolerance Test: Measures blood sugar before and after drinking a sugary drink.
+
+Management:
+- Monitoring blood glucose levels regularly.
+- Following a healthy diet low in sugar and refined carbohydrates.
+- Regular physical activity.
+- Taking prescribed medications or insulin therapy.
+- Regular check-ups with healthcare providers.
+
+Complications:
+If not managed properly, diabetes can lead to various complications, including:
+- Cardiovascular disease
+- Nerve damage (neuropathy)
+- Kidney damage (nephropathy)
+- Eye damage (retinopathy)
+- Foot damage
+- Skin conditions
+- Hearing impairment
+- Alzheimer's disease
