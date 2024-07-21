@@ -1,0 +1,32 @@
+Frequently Asked Questions
+--------------------------
+
+Q: What is diabetes?
+A: Diabetes is a chronic condition that affects how your body turns food into energy. There are three main types: Type 1, Type 2, and gestational diabetes.
+
+Q: What are the symptoms of diabetes?
+A: Common symptoms include increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, blurred vision, slow-healing sores, and frequent infections.
+
+Q: How is diabetes diagnosed?
+A: Diabetes is diagnosed through blood tests such as fasting blood glucose, HbA1c, and oral glucose tolerance test.
+
+Q: What are the treatment options for diabetes?
+A: Treatment options include lifestyle changes, oral medications, insulin therapy, and regular monitoring of blood glucose levels.
+
+Q: Can diabetes be cured?
+A: There is currently no cure for diabetes. However, it can be managed effectively with lifestyle changes, medications, and regular monitoring.
+
+Q: What are the complications of diabetes?
+A: Potential complications include cardiovascular disease, nerve damage, kidney damage, eye damage, foot damage, skin conditions, hearing impairment, and Alzheimer's disease.
+
+Q: How can I prevent Type 2 diabetes?
+A: Preventive measures include maintaining a healthy weight, eating a balanced diet, engaging in regular physical activity, and monitoring blood glucose levels.
+
+Q: What should I eat if I have diabetes?
+A: A balanced diet for diabetes includes plenty of vegetables, fruits, whole grains, lean proteins, and healthy fats. Limit sugar, refined carbohydrates, and saturated fats.
+
+Q: Is exercise important for managing diabetes?
+A: Yes, regular physical activity helps control blood glucose levels, manage weight, reduce the risk of cardiovascular disease, and improve overall health.
+
+Q: What is gestational diabetes?
+A: Gestational diabetes is a form of diabetes that develops during pregnancy and usually disappears after giving birth. It increases the risk of developing Type 2 diabetes later in life.
